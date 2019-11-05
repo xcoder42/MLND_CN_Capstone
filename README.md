@@ -28,6 +28,18 @@ Quora 数据集训练集共包含40K的句子对，且其完全来自于Quora网
 
 ---
 ### 目录及文件说明
+* dataset: 存放基础数据集
+* corpora：存放词向量文件
+* feature_engineering: 特征工程代码
+* feature_store: 特征文件
+* model_bulid: 深度类模型构建代码
+* model_store: 模型保存
+* submission：结果提交文件
+* data_explore.ipynb: 数据探索notebook
+* dnn_model.ipynb: 深度类模型实验notebook
+* lgbm_model.ipynb: lightGBM模型实验notebook
+* ensemble_model.ipynb: 模型融合实验notebook
+* evaluate.ipynb: 结果评估notebook
 
 
 
